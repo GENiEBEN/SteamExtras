@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT35M56.2162183S" SolutionTotalViewTime="PT2H44M50.1120585S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand</SolutionFolder>
+  <SolutionCreattionDate>2020-01-18T19:27:36.0637815+00:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:26:52.6768151+00:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.60169+00:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT26.7085706S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>BandOptions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T21:03:43.4566727+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.0870696S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ComboBox.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T23:02:33.8241534+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M44.8632212S" EditActiveTime="PT1M10.6859596S">
+      <ModifiedDate>2020-01-18T22:37:47.7252444+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.9916472+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.3845069S" EditActiveTime="PT18.3828375S">
+      <ModifiedDate>2020-01-18T22:31:26.6457234+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.8619939+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H21M22.7281965S" EditActiveTime="PT12M55.5644511S">
+      <ModifiedDate>2020-01-18T23:36:15.3716646+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:57:37.0061988+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.4262721S" EditActiveTime="PT3.8018328S">
+      <ModifiedDate>2020-01-18T22:12:07.2810525+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:11:52.4457278+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M16.2819922S" EditActiveTime="PT1M22.5033629S">
+      <ModifiedDate>2020-01-18T21:19:44.032968+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T21:02:18.1767448+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.9342474S" EditActiveTime="PT2M15.189954S">
+      <ModifiedDate>2020-01-18T22:11:09.6930532+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\UserControl1.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:07:12.543168+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT26.7085706S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>BandOptions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T21:03:43.4566727+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.0870696S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ComboBox.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T23:02:33.8241534+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M44.8632212S" EditActiveTime="PT1M10.6859596S">
+      <ModifiedDate>2020-01-18T22:37:47.7252444+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.9916472+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.3845069S" EditActiveTime="PT18.3828375S">
+      <ModifiedDate>2020-01-18T22:31:26.6457234+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.8619939+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H43M5.1346312S" EditActiveTime="PT20M45.7345406S">
+      <ModifiedDate>2020-01-18T23:36:15.3716646+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:28:36.8801345+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.4262721S" EditActiveTime="PT3.8018328S">
+      <ModifiedDate>2020-01-18T22:12:07.2810525+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:11:52.4457278+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M53.3604092S" EditActiveTime="PT2M16.0327172S">
+      <ModifiedDate>2020-01-18T19:58:42.3567193+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:49:18.0268532+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M58.1580147S" EditActiveTime="PT1M7.8575231S">
+      <ModifiedDate>2020-01-18T19:58:22.2599443+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:52:22.9961732+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M14.3933955S" EditActiveTime="PT2M54.5113004S">
+      <ModifiedDate>2020-01-18T21:19:44.032968+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:27:36.0827307+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.9865944S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:04:30.6103968+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.3326946S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\Properties\Resources.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:30:41.0170695+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.9342474S" EditActiveTime="PT2M15.189954S">
+      <ModifiedDate>2020-01-18T22:11:09.6930532+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\UserControl1.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:07:12.543168+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT4.0870696S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ComboBox.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T23:02:33.8241534+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M44.8632212S" EditActiveTime="PT1M10.6859596S">
+      <ModifiedDate>2020-01-18T22:37:47.7252444+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.9916472+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.3845069S" EditActiveTime="PT18.3828375S">
+      <ModifiedDate>2020-01-18T22:31:26.6457234+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\CustomSearchBox\CustomSearchBox.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:19:15.8619939+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.4262721S" EditActiveTime="PT3.8018328S">
+      <ModifiedDate>2020-01-18T22:12:07.2810525+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:11:52.4457278+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33.9342474S" EditActiveTime="PT2M15.189954S">
+      <ModifiedDate>2020-01-18T22:11:09.6930532+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\UserControl1.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T22:07:12.543168+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT26.7085706S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>BandOptions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-01-18T21:03:43.4566727+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M16.2819922S" EditActiveTime="PT1M22.5033629S">
+      <ModifiedDate>2020-01-18T21:19:44.032968+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T21:02:18.1767448+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H21M22.7281965S" EditActiveTime="PT12M55.5644511S">
+      <ModifiedDate>2020-01-18T23:36:15.3716646+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:57:37.0061988+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.3326946S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\Properties\Resources.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:30:41.0170695+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.9865944S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\packages.config</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:04:30.6103968+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M12.0347649S" EditActiveTime="PT7M47.6229007S">
+      <ModifiedDate>2020-01-18T20:27:21.2891713+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:01:44.0109489+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT46.4228464S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T20:01:37.3976359+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M58.1580147S" EditActiveTime="PT1M7.8575231S">
+      <ModifiedDate>2020-01-18T19:58:22.2599443+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:52:22.9961732+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M53.3604092S" EditActiveTime="PT2M16.0327172S">
+      <ModifiedDate>2020-01-18T19:58:42.3567193+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:49:18.0268532+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M16.2453019S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:42:54.0956361+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M22.8719682S" EditActiveTime="PT58.6421685S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:41:58.3307593+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M14.1273649S" EditActiveTime="PT2.5471888S">
+      <ModifiedDate>2020-01-18T19:41:16.1764795+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\DeskBandUI.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:28:36.8801345+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M48.8165887S" EditActiveTime="PT33.365769S">
+      <ModifiedDate>2020-01-18T19:40:50.995823+00:00</ModifiedDate>
+      <ModifiedBy>v</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GameSearchDeskBand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>E:\OneDrive\Coding\Apps\SteamExtras\SearchDeskBand\GamingSearchBand.csproj</ProjectName>
+      <CreatedDate>2020-01-18T19:27:36.0827307+00:00</CreatedDate>
+      <ViewedBy>v</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
