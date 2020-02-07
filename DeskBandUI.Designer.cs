@@ -29,9 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DeskBandUI));
-            this.buttonGo = new System.Windows.Forms.Button();
-            this.textBoxSearch = new System.Windows.Forms.TextBox();
             this.rightClick = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.menuSteam = new System.Windows.Forms.ToolStripMenuItem();
             this.menuEGS = new System.Windows.Forms.ToolStripMenuItem();
@@ -45,40 +42,9 @@
             this.menuSHachs = new System.Windows.Forms.ToolStripMenuItem();
             this.menuSHprofiles = new System.Windows.Forms.ToolStripMenuItem();
             this.menuEXO = new System.Windows.Forms.ToolStripMenuItem();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.textBoxSearch = new System.Windows.Forms.TextBox();
             this.rightClick.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // buttonGo
-            // 
-            this.buttonGo.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.buttonGo.FlatAppearance.BorderSize = 0;
-            this.buttonGo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonGo.Image = ((System.Drawing.Image)(resources.GetObject("buttonGo.Image")));
-            this.buttonGo.Location = new System.Drawing.Point(161, 0);
-            this.buttonGo.Margin = new System.Windows.Forms.Padding(0);
-            this.buttonGo.Name = "buttonGo";
-            this.buttonGo.Size = new System.Drawing.Size(28, 28);
-            this.buttonGo.TabIndex = 2;
-            this.buttonGo.UseVisualStyleBackColor = true;
-            this.buttonGo.Click += new System.EventHandler(this.buttonGo_Click_1);
-            // 
-            // textBoxSearch
-            // 
-            this.textBoxSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBoxSearch.BackColor = System.Drawing.Color.Black;
-            this.textBoxSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBoxSearch.ContextMenuStrip = this.rightClick;
-            this.textBoxSearch.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxSearch.ForeColor = System.Drawing.Color.White;
-            this.textBoxSearch.Location = new System.Drawing.Point(0, 0);
-            this.textBoxSearch.Margin = new System.Windows.Forms.Padding(0);
-            this.textBoxSearch.Multiline = true;
-            this.textBoxSearch.Name = "textBoxSearch";
-            this.textBoxSearch.Size = new System.Drawing.Size(161, 28);
-            this.textBoxSearch.TabIndex = 1;
-            this.textBoxSearch.WordWrap = false;
             // 
             // rightClick
             // 
@@ -187,42 +153,37 @@
             this.menuEXO.Size = new System.Drawing.Size(155, 22);
             this.menuEXO.Text = "Exophase";
             // 
-            // tableLayoutPanel1
+            // textBoxSearch
             // 
-            this.tableLayoutPanel1.ColumnCount = 2;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 28F));
-            this.tableLayoutPanel1.Controls.Add(this.textBoxSearch);
-            this.tableLayoutPanel1.Controls.Add(this.buttonGo);
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(0);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 1;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(189, 28);
-            this.tableLayoutPanel1.TabIndex = 0;
+            this.textBoxSearch.BackColor = System.Drawing.Color.Black;
+            this.textBoxSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBoxSearch.ContextMenuStrip = this.rightClick;
+            this.textBoxSearch.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBoxSearch.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxSearch.ForeColor = System.Drawing.Color.White;
+            this.textBoxSearch.Location = new System.Drawing.Point(0, 0);
+            this.textBoxSearch.Margin = new System.Windows.Forms.Padding(0);
+            this.textBoxSearch.Name = "textBoxSearch";
+            this.textBoxSearch.Size = new System.Drawing.Size(150, 27);
+            this.textBoxSearch.TabIndex = 2;
+            this.textBoxSearch.WordWrap = false;
+            this.textBoxSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CheckEnter);
             // 
             // DeskBandUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.Controls.Add(this.tableLayoutPanel1);
+            this.Controls.Add(this.textBoxSearch);
             this.Name = "DeskBandUI";
-            this.Size = new System.Drawing.Size(189, 28);
+            this.Size = new System.Drawing.Size(150, 28);
             this.rightClick.ResumeLayout(false);
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button buttonGo;
-        private System.Windows.Forms.TextBox textBoxSearch;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.ContextMenuStrip rightClick;
         private System.Windows.Forms.ToolStripMenuItem menuSteam;
         private System.Windows.Forms.ToolStripMenuItem menuEGS;
@@ -236,5 +197,6 @@
         private System.Windows.Forms.ToolStripMenuItem menuSHachs;
         private System.Windows.Forms.ToolStripMenuItem menuSHprofiles;
         private System.Windows.Forms.ToolStripMenuItem menuEXO;
+        private System.Windows.Forms.TextBox textBoxSearch;
     }
 }
